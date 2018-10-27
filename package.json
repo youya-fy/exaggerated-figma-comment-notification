@@ -1,0 +1,17 @@
+{
+    "name": "exaggerated-figma-comment-notification",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.11",
+        "moment": "^2.22.2",
+        "superagent": "^4.0.0-beta.5"
+    }
+}
